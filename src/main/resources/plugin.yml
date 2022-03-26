@@ -1,0 +1,7 @@
+name: ${name}
+version: ${version}
+main: ${mainClass}
+description: ${description}
+api-version: 1.13
+
+depend: [Citizens, ProtocolLib]
